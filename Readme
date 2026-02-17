@@ -1,0 +1,23 @@
+# Kepler Orbital Period Calculator!!
+It's my first time programming in english so more people can understand my code.
+ This script Calculates orbital periods using Kepler's Third Law.
+Supports both circular and elliptical orbits.
+
+## Features:
+- Circular orbit calculation
+- Elliptical orbit (real Kepler correction)
+- Eccentricity calculation
+- Orbital velocity
+- Orbit classification (LEO/MEO/GEO/HEO)
+
+## Formula:
+T = 2π × √(a³/GM)
+
+## Examples:
+- ISS (400km): ~92 minutes
+- GPS (20,200km): ~12 hours  
+- Moon (356,500/406,700km): ~27.8 days
+
+**Author:** IvanSpaceCoder
+**Age:** 14
+**Goal:** NASA Astronaut 
